@@ -1,0 +1,8 @@
+body {
+	padding-left: 40px;
+	font-family: 'Quicksand', sans-serif;
+}
+#container {
+	display: flex;
+	justify-content: left;
+}
